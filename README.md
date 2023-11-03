@@ -14,9 +14,10 @@ I am a Big Data Platform Development Engineer.
 - ⚡️ Technologies I work with: Java, Python and more.
 - 😄 Pronouns: He.
 
-- My share
 
+My share
 
+![640](https://github.com/liugddx/liugddx/assets/48236177/c714ab02-bfac-444c-a6c9-bc75bc17abc3)
 
 https://www.bilibili.com/video/BV1UB4y1R769/?spm_id_from=333.999.0.0
 
