@@ -16,7 +16,8 @@ I am a Big Data Platform Development Engineer.
 
 - My share
 
-![Uploading 640.jfif…]()
+
+
 https://www.bilibili.com/video/BV1UB4y1R769/?spm_id_from=333.999.0.0
 
 ![liugddx's github stats](https://github-readme-stats.vercel.app/api?username=liugddx&show_icons=true&theme=radical&include_all_commits=true)
