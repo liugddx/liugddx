@@ -21,7 +21,7 @@ My share
 
 Participated Activities
 
-[开源之夏2023-刘广东-结项证书-23b660198-zh.pdf](https://github.com/liugddx/liugddx/files/13467002/2023-.-.-23b660198-zh.pdf)
+![1701007306767](https://github.com/liugddx/liugddx/assets/48236177/e9f16e81-1fb7-4522-9b47-7fdf9a920740)
 
 
 ![liugddx's github stats](https://github-readme-stats.vercel.app/api?username=liugddx&show_icons=true&theme=radical&include_all_commits=true)
