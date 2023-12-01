@@ -21,7 +21,7 @@ My share
 
 Participated Activities
 
-![1701007306767](https://github.com/liugddx/liugddx/assets/48236177/e9f16e81-1fb7-4522-9b47-7fdf9a920740)
-
+[实现Apache SeaTunnel Zeta 中传递配置文件参数的功能/Implementing Configuration Parameter Passing in Apache SeaTunnel Zeta
+](https://summer-ospp.ac.cn/org/prodetail/23b660198?lang=zh&list=pro)
 
 ![liugddx's github stats](https://github-readme-stats.vercel.app/api?username=liugddx&show_icons=true&theme=radical&include_all_commits=true)
