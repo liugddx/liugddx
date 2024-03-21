@@ -25,3 +25,5 @@ Participated Activities
 ](https://summer-ospp.ac.cn/org/prodetail/23b660198?lang=zh&list=pro)
 
 ![liugddx's github stats](https://github-readme-stats.vercel.app/api?username=liugddx&show_icons=true&theme=radical&include_all_commits=true)
+
+[![](https://ossrank.com/widget/497922)](https://ossrank.com/c/497922)
